@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff9502dc.css",
+    "main.js": "/static/js/main.aac7abe0.js",
+    "static/js/82.a814c732.chunk.js": "/static/js/82.a814c732.chunk.js",
+    "static/js/337.125a4087.chunk.js": "/static/js/337.125a4087.chunk.js",
+    "static/js/307.5452fcdd.chunk.js": "/static/js/307.5452fcdd.chunk.js",
+    "static/js/206.0ca7585c.chunk.js": "/static/js/206.0ca7585c.chunk.js",
+    "static/media/2.png": "/static/media/2.a1c9105661c5b1865d6b.png",
+    "static/media/Logo.png": "/static/media/Logo.4cd7425d8448c689ea40.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.f276979f97f1cf375d23.woff2",
+    "static/media/invoice-1-example.png": "/static/media/invoice-1-example.c08c6f82f44d962d3b74.png",
+    "static/media/invoice-2-example.png": "/static/media/invoice-2-example.3cd9bded14265759d8f3.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.cfbad32c79d9dda6af4a.woff2",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ff9502dc.css",
+    "static/js/main.aac7abe0.js"
+  ]
+}
